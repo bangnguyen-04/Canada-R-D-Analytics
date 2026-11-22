@@ -2,9 +2,7 @@
 
 **Where should Canada invest in innovation? A Big Data look at regional business capacity and the shifting face of business R&D.**
 
-Suggested repository name: `canada-innovation-compass`
 
-Course project for ITM 760 (Assignment 2), using open Statistics Canada data and Python.
 
 ## Overview
 
